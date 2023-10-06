@@ -1,0 +1,13 @@
+body {
+    background-color: whitesmoke;
+}
+
+.container {
+    display: flex;
+    justify-content: center;
+    margin-top: 170px;
+}
+
+button {
+    margin-top: 18px;
+}
